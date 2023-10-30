@@ -1,0 +1,304 @@
+{
+  "escenas": [
+    {
+      "id": 1,
+      "imagen_de_fondo": "dcic.jpg",
+      "musica_de_fondo": "musicaFondo.mp3",
+      "personajes": [
+        {
+          "nombre": "Yamil",
+          "imagen": "yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Diego",
+          "imagen": "diego_no_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "dialogo.png",
+      "texto": "¡Hola, Diego! ¿Has notado lo caros que están los videojuegos en Argentina últimamente?",
+      "nombre_del_personaje": "Yamil",
+      "siguiente": 2,
+      "sonido_escena": "sorpresa.mp3",
+      "escena_anterior": -1
+    },
+    {
+      "id": 2,
+      "imagen_de_fondo": "dcic.jpg",
+      "musica_de_fondo": "musicaFondo.mp3",
+      "personajes": [
+        {
+          "nombre": "Yamil",
+          "imagen": "yamil_no_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Diego",
+          "imagen": "diego_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "dialogo.png",
+      "texto": "Sí, Yamil, es un problema. Los precios suben constantemente y no puedo permitirme comprar tantos juegos como antes.",
+      "nombre_del_personaje": "Diego",
+      "siguiente": 3,
+      "sonido_escena": "",
+      "escena_anterior": 1
+    },
+    {
+      "id": 3,
+      "imagen_de_fondo": "dcic.jpg",
+      "musica_de_fondo": "musicaFondo.mp3",
+      "personajes": [
+        {
+          "nombre": "Yamil",
+          "imagen": "yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Diego",
+          "imagen": "diego_no_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "dialogo.png",
+      "texto": "Lo entiendo, Diego. Los impuestos y la inflación hacen que los videojuegos sean un lujo en estos días.",
+      "nombre_del_personaje": "Yamil",
+      "siguiente": 4,
+      "sonido_escena": "",
+      "escena_anterior": 2
+    },
+    {
+      "id": 4,
+      "imagen_de_fondo": "dcic.jpg",
+      "musica_de_fondo": "musicaFondo.mp3",
+      "personajes": [
+        {
+          "nombre": "Yamil",
+          "imagen": "yamil_no_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Diego",
+          "imagen": "diego_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "dialogo.png",
+      "texto": "Espero que la situación mejore en el futuro. Extraño los días en que podía comprar videojuegos sin preocupaciones.",
+      "nombre_del_personaje": "Diego",
+      "siguiente": 5,
+      "sonido_escena": "",
+      "escena_anterior": 3
+    },
+    {
+      "id": 5,
+      "imagen_de_fondo": "dcic.jpg",
+      "musica_de_fondo": "musicaFondo.mp3",
+      "personajes": [
+        {
+          "nombre": "Yamil",
+          "imagen": "yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Diego",
+          "imagen": "diego_no_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "dialogo.png",
+      "texto": "Sí, yo también. Tal vez podamos buscar ofertas y descuentos para seguir disfrutando de los juegos.",
+      "nombre_del_personaje": "Yamil",
+      "siguiente": 6,
+      "sonido_escena": "",
+      "escena_anterior": 4
+    },
+    {
+      "id": 6,
+      "imagen_de_fondo": "dcic.jpg",
+      "musica_de_fondo": "musicaFondo.mp3",
+      "personajes": [
+        {
+          "nombre": "Yamil",
+          "imagen": "yamil_no_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Diego",
+          "imagen": "diego_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "dialogo.png",
+      "texto": "Buena idea, Yamil. También podríamos considerar comprar juegos independientes que a menudo son más asequibles.",
+      "nombre_del_personaje": "Diego",
+      "siguiente": 7,
+      "sonido_escena": "",
+      "escena_anterior": 5
+    },
+    {
+      "id": 7,
+      "imagen_de_fondo": "dcic.jpg",
+      "musica_de_fondo": "musicaFondo.mp3",
+      "personajes": [
+        {
+          "nombre": "Yamil",
+          "imagen": "yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Diego",
+          "imagen": "diego_no_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "dialogo.png",
+      "texto": "Exacto, Diego. Los juegos independientes a menudo ofrecen experiencias únicas y a precios razonables.",
+      "nombre_del_personaje": "Yamil",
+      "siguiente": 8,
+      "sonido_escena": "",
+      "escena_anterior": 6
+    },
+    {
+      "id": 8,
+      "imagen_de_fondo": "dcic.jpg",
+      "musica_de_fondo": "musicaFondo.mp3",
+      "personajes": [
+        {
+          "nombre": "Yamil",
+          "imagen": "yamil_no_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Diego",
+          "imagen": "diego_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "dialogo.png",
+      "texto": "También podríamos unirnos a servicios de suscripción de juegos para acceder a una variedad de títulos a un costo fijo al mes.",
+      "nombre_del_personaje": "Diego",
+      "siguiente": 9,
+      "sonido_escena": "",
+      "escena_anterior": 7
+    },
+    {
+      "id": 9,
+      "imagen_de_fondo": "dcic.jpg",
+      "musica_de_fondo": "musicaFondo.mp3",
+      "personajes": [
+        {
+          "nombre": "Yamil",
+          "imagen": "yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Diego",
+          "imagen": "diego_no_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "dialogo.png",
+      "texto": "Eso suena como una excelente idea, Diego. ¡Espero que podamos encontrar una solución para disfrutar de los videojuegos de manera asequible!",
+      "nombre_del_personaje": "Yamil",
+      "siguiente": 10,
+      "sonido_escena": "",
+      "escena_anterior": 8
+    },
+    {
+      "id": 10,
+      "imagen_de_fondo": "dcic.jpg",
+      "musica_de_fondo": "musicaFondo.mp3",
+      "personajes": [
+        {
+          "nombre": "Yamil",
+          "imagen": "yamil_no_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Diego",
+          "imagen": "diego_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "dialogo.png",
+      "texto": "¡Sí, Yamil, estoy seguro de que encontraremos una manera de seguir disfrutando de nuestra pasión por los videojuegos!",
+      "nombre_del_personaje": "Diego",
+      "siguiente": 11,
+      "sonido_escena": "exclamacion.mp3",
+      "escena_anterior": 9
+    },
+    {
+      "id": 11,
+      "imagen_de_fondo": "dcic.jpg",
+      "musica_de_fondo": "musicaFondo.mp3",
+      "personajes": [
+        {
+          "nombre": "Yamil",
+          "imagen": "yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Diego",
+          "imagen": "diego_no_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "dialogo.png",
+      "texto": "Otra cosa que podríamos hacer es... bueno... tu sabes...",
+      "nombre_del_personaje": "Yamil",
+      "siguiente": 12,
+      "sonido_escena": "",
+      "escena_anterior": 10
+    },
+    {
+      "id": 12,
+      "imagen_de_fondo": "dcic.jpg",
+      "musica_de_fondo": "musicaFondo.mp3",
+      "personajes": [
+        {
+          "nombre": "Yamil",
+          "imagen": "yamil_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Diego",
+          "imagen": "diego_no_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "dialogo.png",
+      "texto": "Me refiero a descargar juegos desde páginas piratas... I LE GA LES...",
+      "nombre_del_personaje": "Yamil",
+      "siguiente": 13,
+      "sonido_escena": "",
+      "escena_anterior": 11
+    },
+    "",
+    {
+      "id": 13,
+      "imagen_de_fondo": "dcic.jpg",
+      "musica_de_fondo": "musicaFondo.mp3",
+      "personajes": [
+        {
+          "nombre": "Yamil",
+          "imagen": "yamil_no_hablando.png",
+          "color_de_texto": "#FF5733"
+        },
+        {
+          "nombre": "Diego",
+          "imagen": "diego_hablando.png",
+          "color_de_texto": "#3366FF"
+        }
+      ],
+      "cuadro_de_dialogo": "dialogo.png",
+      "texto": "Aunque ahora que lo dices, no veo otra solución en este país. Vamos a ver qué sale.",
+      "nombre_del_personaje": "Diego",
+      "siguiente": 13,
+      "sonido_escena": "",
+      "escena_anterior": 12
+    }
+  ]
+}
